@@ -1,6 +1,6 @@
 # Web3-app-on-ReactJS-with-Typescript-Django-and-Solidity-deployed-on-AWS
 
-This is web3 application written on ReactJS(Typescript), Django and Solidity and deployed on AWS.
+This is web3 application written on ReactJS(Typescript), Django and Solidity. Deployed on AWS.
 
 There are requirements folder at django, so you can directly make "eb create" for Elastic Beanstalk.
 
